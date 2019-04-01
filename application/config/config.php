@@ -22,8 +22,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | If you need to allow multiple domains, remember that this file is still
 | a PHP script and you can easily do that on your own.
 |
+for local: $config['base_url'] = 'http://localhost/~hycho/test/';
 */
-$config['base_url'] = 'http://localhost/~hycho/test/';
+$config['base_url'] = 'http://apricot-crisp-70960.herokuapp.com/';
 
 /*
 |--------------------------------------------------------------------------
