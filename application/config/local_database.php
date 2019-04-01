@@ -75,11 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'ec2-23-21-136-232.compute-1.amazonaws.com',
-	'username' => 'lpplqhveretoro',
-	'password' => '1cafea541b15bb178a51ab1fde8d93e9b1fd20fe3f48f26e6b278ad8abd873af',
-	'database' => 'dcs0ccsqbj3t7c',
-	'port'	   => '5432',
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => '802394@rutY',
+	'database' => 'test',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
