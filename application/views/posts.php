@@ -62,7 +62,7 @@
               <div class="form-group">
                 <label class="control-label col-sm-2" for="content">Content:</label>
                 <div class="col-sm-12">
-                  <textarea class="form-control" id="content" name="content" placeholder="Write Content"></textarea>
+                  <textarea class="form-control" id="content" name="content" rows="10" placeholder="Write Content"></textarea>
                 </div>
               </div>
             </form>
