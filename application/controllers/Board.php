@@ -98,7 +98,7 @@ class Board extends CI_Controller {
 				$result .= '</div>';
 				$result .= '</div>';
 				$result .= '<div class="form-group">';
-				$result .= '<label class="control-label col-sm-2" for="cate_desc">Content:</label>';
+				$result .= '<label class="control-label col-sm-2" for="content">Content:</label>';
 				$result .= '<div class="col-sm-12">';
 				$result .= '<textarea class="form-control" id="content" name="val[content]" rows="10">'.$post->content.'</textarea>';
 				$result .= '</div>';
